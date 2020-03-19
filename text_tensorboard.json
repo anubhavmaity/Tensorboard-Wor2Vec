@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://filebin.net/732i68rvcs5yeaxl/text_tensorsfp.tsv?t=7524mkj8",
+      "tensorPath": "https://u-cincy-dscenter.s3.us-east-2.amazonaws.com/covid/text_tensorsfp.tsv",
       "metadataPath": "https://github.com/anubhavmaity/Tensorboard-Wor2Vec/blob/master/text_metadatafp.tsv"
     }
   ]

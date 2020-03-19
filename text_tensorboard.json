@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Text Word2Vec",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://filebin.net/732i68rvcs5yeaxl/text_tensorsfp.tsv?t=7524mkj8",
+      "metadataPath": "https://github.com/anubhavmaity/Tensorboard-Wor2Vec/blob/master/text_metadatafp.tsv"
+    }
+  ]
+}

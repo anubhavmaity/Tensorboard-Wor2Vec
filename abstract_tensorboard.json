@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/anubhavmaity/Tensorboard-Wor2Vec/master/abstract_tensorsfp.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/anubhavmaity/Tensorboard-Wor2Vec/master/abstract_metadatafp.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/ucdscenter/Tensorboard-Wor2Vec/master/abstract_tensorsfp.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/ucdscenter/Tensorboard-Wor2Vec/master/abstract_metadatafp.tsv"
     }
   ]
 }
